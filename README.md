@@ -2,7 +2,7 @@
 
 
 
-**requirements Nuget package for it work**
+**requirements Nuget package for it to work**
 
 ![Skærmbillede 2023-01-12 104243](https://user-images.githubusercontent.com/88823753/212033303-18d5855e-f861-4154-96e6-8c4ed1c45374.png)
 
